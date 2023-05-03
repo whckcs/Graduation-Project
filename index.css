@@ -23,6 +23,7 @@ body{
     backdrop-filter: blur(10px);
     border-radius: 10px;
     flex-wrap: wrap;
+    margin-top: 10px;
 }
 .preface p{
     /* margin-top: 10px; */
