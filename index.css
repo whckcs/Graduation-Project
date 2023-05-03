@@ -9,7 +9,7 @@ body{
     align-items: center;
     height: 100vh;
     flex-wrap: wrap;
-    background-image: url(./media/1.jpg);
+    background-image: url(./media/background.jpg);
     background-size: cover;
     font-family: SimSun, STSong, serif;
 }
@@ -19,7 +19,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #00000044;
+    background-color: #ffffff44;
     backdrop-filter: blur(10px);
     border-radius: 10px;
     flex-wrap: wrap;
@@ -37,7 +37,7 @@ body{
     justify-content: center;
     width: 80vw;
     height: 12vh;
-    background-color: #00000043;
+    background-color: #f6f6f643;
     flex-wrap: wrap;
     backdrop-filter: blur(10px);
     border-radius: 50px;
