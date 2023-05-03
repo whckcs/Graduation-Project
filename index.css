@@ -6,7 +6,7 @@
 body{
     display: flex;
     justify-content: center;
-    align-items: start;
+    align-items: center;
     height: 100vh;
     flex-wrap: wrap;
     background-image: url(./media/1.jpg);
@@ -23,7 +23,7 @@ body{
     backdrop-filter: blur(10px);
     border-radius: 10px;
     flex-wrap: wrap;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 .preface p{
     /* margin-top: 10px; */
@@ -41,7 +41,7 @@ body{
     flex-wrap: wrap;
     backdrop-filter: blur(10px);
     border-radius: 50px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 .box img{
     width: 15vw;
